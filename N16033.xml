@@ -108,15 +108,16 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:020522_0000_0FAF3A5A1CA26DD8"/>
-            <pb facs="tcp:020522_0001_0FAF3A5B9B29BC40" rendition="simple:additions"/>
+            <pb facs="unknown:020522_0000_0FAF3A5A1CA26DD8"/>
+            <pb facs="unknown:020522_0001_0FAF3A5B9B29BC40"
+                rendition="simple:additions"/>
             <p>A FORM OF DISCIPLINE, FOR THE Miniſters, Preachers, and Members OF THE METHODIST Epiſcopal CHURCH in AMERICA. Conſidered and approved at a CONFERENCE Held at BALTIMORE, in the State of MARYLAND, On Monday the 27th of December, 1784: IN WHICH The Reverend THOMAS COKE, L. L. D. and the Reverend FRANCIS ASBURY, preſided. Arranged under proper HEADS, and METHODIZED in a more acceptable and eaſy Manner.</p>
             <p>NEW-YORK: PRINTED BY W. ROSS, IN BROAD-STREETS M.DCC.LXXXVII.</p>
          </div>
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:020522_0002_0FAF3A5CD23456E0"/>
+            <pb facs="unknown:020522_0002_0FAF3A5CD23456E0"/>
             <head>A FORM OF DISCIPLINE, &amp;c.</head>
             <div n="1" type="section">
                <head>
@@ -129,7 +130,7 @@
                   <hi>Queſt.</hi> 2. What was the Riſe of Methodiſm, ſo called, in America?</p>
                <p>
                   <hi>Anſw.</hi> During the Space of thirty Years paſt, certain Perſons, Members of the Society, emigrated from England and Ireland, and ſettled in various Parts of this Country. About twenty Years ago, Philip Embury, a local Preacher from Ireland, began to preach in the City of New-York, and formed a Society of his own Countrymen and the Citizens. About the ſame Time, Robert Straw<g ref="char:EOLhyphen"/>bridge, a local Preacher from Ireland, ſettled in
-<pb n="4" facs="tcp:020522_0003_0FAF3A5D1DB8DF18"/>
+<pb n="4" facs="unknown:020522_0003_0FAF3A5D1DB8DF18"/>
 Frederick County, in the State of Maryland, and preaching there formed ſome Societies. In 1769, Richard Boardman and Joſeph Pilmoor, came to New-York; who were the firſt regular Methodiſt Preachers on the Continent. In the latter End of the Year 1771, Francis Aſbury and Richard Wright, of the ſame Order, came over.</p>
                <p>
                   <hi>Queſt.</hi> 3. What may we reaſonably believe to be God's Deſign, in raiſing up the Preachers called Methodiſts?</p>
@@ -151,7 +152,7 @@ Frederick County, in the State of Maryland, and preaching there formed ſome Soc
 another, and for a Bleſſing on our Labour.</p>
                <p>
                   <pb n="5"
-                      facs="tcp:020522_0004_0FAF3A5DDB047D18"
+                      facs="unknown:020522_0004_0FAF3A5DDB047D18"
                       rendition="simple:additions"/>
                   <hi>Queſt.</hi> 2. What is the Method wherein we uſually proceed in a Conference?</p>
                <p>
@@ -180,7 +181,7 @@ another, and for a Bleſſing on our Labour.</p>
                <head>
                   <hi>SECTION III.</hi> On the Nature and Conſtitution of our Church.</head>
                <p>WE are thoroughly convinced, that the Church of England, to which we have been united, is deficient in ſeveral of the moſt im<g ref="char:EOLhyphen"/>portant Parts of Chriſtian Diſcipline; and that (a few Miniſters and Members excepted) it has loſt the Life and Power of Religion. We are not
-<pb n="6" facs="tcp:020522_0005_0FAF3A5E9AFF5C98"/>
+<pb n="6" facs="unknown:020522_0005_0FAF3A5E9AFF5C98"/>
 ignorant of the Spirit and Deſigns it has ever diſco<g ref="char:EOLhyphen"/>vered in Europe, of riſing to Pre-eminence and worldly Dignities by Virtue of a national Eſtabliſh<g ref="char:EOLhyphen"/>ment, and by the moſt ſervile Devotion to the Will of temporal Governors: and we fear, the ſame Spirit will lead the ſame Church in theſe United States (tho' altered in its Name) to ſimilar Deſigns and Attempts, if the Number and Strength of its Members will ever afford a Probability of Succeſs; and particularly, to obtain a national Eſtabliſhment which we cordially abhor as the great Bane of Truth and Holineſs, the greateſt Impediment in the World to the Progreſs of vital Chriſtianity.</p>
                <p>For theſe Reaſons, we have thought it our Duty to form ourſelves into an Independent Church. And as the moſt excellent Mode of Church Govern<g ref="char:EOLhyphen"/>ment according to our matureſt Judgment, is that of <hi>a moderate Epiſcopacy;</hi> and as we are perſuaded, <hi>that the uninterrupted Succeſſion of Biſhops from the Apoſtles,</hi> can be proved neither from Scripture nor Antiquity; we therefore have conſtituted ourſelves into an <hi>Epiſcopal Church,</hi> under the Direction of <hi>Biſhops, Elders, Deacons,</hi> and <hi>Preachers,</hi> according to the Forms of Ordination annexed to our Prayer Book, and the Regulations laid down in this Form of Diſcipline.</p>
             </div>
@@ -193,7 +194,7 @@ ignorant of the Spirit and Deſigns it has ever diſco<g ref="char:EOLhyphen"/>v
                   <hi>Anſw.</hi> By the Election of a Majority of the Conference, and the laying on of Hands of a Biſhop, and the Elders preſent.</p>
                <p>
                   <pb n="7"
-                      facs="tcp:020522_0006_0FAF3A5F5DA74B18"
+                      facs="unknown:020522_0006_0FAF3A5F5DA74B18"
                       rendition="simple:additions"/>
                   <hi>Queſt.</hi> 2. What is his Duty?</p>
                <p>
@@ -219,7 +220,7 @@ ignorant of the Spirit and Deſigns it has ever diſco<g ref="char:EOLhyphen"/>v
                <p>
                   <hi>Anſw.</hi> By the Election of a Ma<g ref="char:EOLhyphen"/>jority of the Conference, and by the laying on of Hands of a Biſhop, and the Elders preſent.</p>
                <p>
-                  <pb n="8" facs="tcp:020522_0007_0FAF3A601B80B5E0"/>
+                  <pb n="8" facs="unknown:020522_0007_0FAF3A601B80B5E0"/>
                   <hi>Queſt.</hi> 2. What is his Duty?</p>
                <p>
                   <hi>Anſw.</hi> 1. To travel through his appointed Diſ<g ref="char:EOLhyphen"/>trict.</p>
@@ -246,7 +247,7 @@ ignorant of the Spirit and Deſigns it has ever diſco<g ref="char:EOLhyphen"/>v
                   <hi>Anſw.</hi> 1. To baptize, and perform the Office of Matrimony in the Abſence of the Elder.</p>
                <p n="2">
                   <pb n="9"
-                      facs="tcp:020522_0008_0FAF3A60DF760808"
+                      facs="unknown:020522_0008_0FAF3A60DF760808"
                       rendition="simple:additions"/>2. To aſſiſt the Elder in adminiſtering the Lord's Supper.</p>
                <p n="3">3. To ſee that the other Preachers in his Circuit behave well, and want nothing.</p>
                <p n="4">4. To renew the Tickets quarterly, and regu<g ref="char:EOLhyphen"/>late the Bands.</p>
@@ -263,7 +264,7 @@ ignorant of the Spirit and Deſigns it has ever diſco<g ref="char:EOLhyphen"/>v
                <p n="15">15. To move a yearly Subſcription through thoſe Circuits that can bear it, for building Churches.</p>
                <p n="16">16. To chuſe a Committee of lay Members, to make a juſt Application of the Money, where it is moſt wanted.</p>
                <p>
-                  <pb n="10" facs="tcp:020522_0009_0FAF3A619B549CD0"/>
+                  <pb n="10" facs="unknown:020522_0009_0FAF3A619B549CD0"/>
                   <hi>Queſt.</hi> 3. What other Directions ſhall we give the Deacons?</p>
                <p>
                   <hi>Anſw.</hi> Several.</p>
@@ -278,7 +279,7 @@ ignorant of the Spirit and Deſigns it has ever diſco<g ref="char:EOLhyphen"/>v
                <p n="9">9. Read the Rules of the Society, with the Aid of the Preachers, once a Year, in every Congrega<g ref="char:EOLhyphen"/>tion, and once a Quarter in every Society.</p>
                <p n="10">10. On any Diſpute between two or more of the Members of our Society which cannot be ſet<g ref="char:EOLhyphen"/>tled by the Parties concerned, the Deacon ſhall inquire into the Circumſtances of the Caſe, and having conſulted the Stewards and Leaders, ſhall, if agreable to their Advice, recommend to the con<g ref="char:EOLhyphen"/>tending Parties a Reference conſiſting of one Arbi<g ref="char:EOLhyphen"/>ter, choſen by the Plaintiff, and another by the Deſendent; which two Arbiters ſo choſen, ſhall
 <pb n="11"
-                      facs="tcp:020522_0010_0FAF3A625ACFA5C0"
+                      facs="unknown:020522_0010_0FAF3A625ACFA5C0"
                       rendition="simple:additions"/>
 nominate a third (the three Arbiters being Mem<g ref="char:EOLhyphen"/>bers of our Society) and the Deciſion of any two of them, ſhall be final. But if either of the Par<g ref="char:EOLhyphen"/>ties refuſe to abide by ſuch Deciſion, he ſhall be immediately expelled.</p>
                <p>
@@ -306,7 +307,7 @@ nominate a third (the three Arbiters being Mem<g ref="char:EOLhyphen"/>bers of o
                <p>
                   <hi>N. B.</hi> We are fully determined never to drop Morning-Preaching; and to preach at five o'Clock in the Summer, and at ſix in the Winter, where<g ref="char:EOLhyphen"/>ever it is practicable.</p>
                <p n="3">
-                  <pb n="12" facs="tcp:020522_0011_0FAF3A6392CDF318"/>
+                  <pb n="12" facs="unknown:020522_0011_0FAF3A6392CDF318"/>
                   <hi>Queſt.</hi> 3. Are the Preachers to read our Liturgy?</p>
                <p>
                   <hi>Anſw.</hi> All that have received a written Direction for that Purpoſe, under the Hand of a Biſhop or Elder, may read the Liturgy, as often as they think it expedient.</p>
@@ -323,7 +324,7 @@ nominate a third (the three Arbiters being Mem<g ref="char:EOLhyphen"/>bers of o
                <p n="8">8. Do not affect the Gentleman. You have no more to do with this Character than with that of a Dancing-Maſter. A Preacher of the Goſpel is the Servant of all.</p>
                <p n="9">
                   <pb n="13"
-                      facs="tcp:020522_0012_0FAF3A640CCA1BE0"
+                      facs="unknown:020522_0012_0FAF3A640CCA1BE0"
                       rendition="simple:additions"/>9. Be aſhamed of nothing but Sin.</p>
                <p n="10">10. Be punctual. Do every Thing exactly at the Time. And do not mend our Rules, but keep them; not for Wrath but Conſcience ſake.</p>
                <p n="11">11. You have nothing to do but to ſave Souls. Therefore ſpend and be ſpent in this Work. And go always not only to thoſe that want, but to thoſe that want you moſt.</p>
@@ -333,7 +334,7 @@ nominate a third (the three Arbiters being Mem<g ref="char:EOLhyphen"/>bers of o
                   <hi>Queſt.</hi> 5. What Method do we uſe in receiving a Preacher at the Conference?</p>
                <p>
                   <hi>Anſw.</hi> After ſolemn Faſting and Prayer, every Perſon propoſed ſhall then be aſked, before the Con<g ref="char:EOLhyphen"/>ference, the following Queſtions (with any others which may be thought neceſſary) viz. Have you Faith in Chriſt? Are you going on to Perfection? Do you expect to be made perfect in Love in this
-<pb n="14" facs="tcp:020522_0013_0FAF3A649DD0B4A8"/>
+<pb n="14" facs="unknown:020522_0013_0FAF3A649DD0B4A8"/>
 Life? Are you groaning after it? Are you reſolved to devote yourſelf wholly to God and his Work? Do you know the Rules of the Society? Of the Bands? Do you keep them? Do you conſtantly attend the Sacrament? Have you read the Form of Diſcipline? Are you willing to conform to it? Have you conſidered the Rules of a Preacher; eſpe<g ref="char:EOLhyphen"/>cially the firſt, tenth and twelfth? Will you keep them for Conſcience Sake? Are you determined to employ all your Time in the Work of God? Will you endeavour not to ſpeak too long or too loud? Will you diligently inſtruct the Children in every Place? Will you viſit from Houſe to Houſe? Will you recommend Faſting or Abſtinence, both by Precept and Example? Are you in Debt?</p>
                <p>We may then, if he gives Satisfaction, receive him as a Probationer, by giving him the Form of Diſcipline, inſcribed thus: To A. B. <hi>"You think it your Duty to call Sinners to Repentance. Make full Proof hereof, and we ſhall rejoice to receive you as a Fellow-Labourer."</hi> Let him then carefully read and weigh what is contained therein; that if he has any Doubt, it may be removed. Obſerve! Taking on Trial is entirely different from admitting a Preacher. One on Trial, may be either admitted or rejected, without doing him any Wrong; other<g ref="char:EOLhyphen"/>wiſe it would be no Trial at all. Let every Dea<g ref="char:EOLhyphen"/>con explain this to them that are on Trial.</p>
                <p>After two Years Probation, being recommended by the Elder or Deacon, and examined by the Biſhop, he may be received into full Connection, by giving him the Form of Diſcipline, inſcribed thus: <hi>As long as you freely conſent to, and earneſtly endeavour to walk by theſe Rules, we ſhall rejoice to acknowledge you as a Fellow-Labourer.</hi>
@@ -341,7 +342,7 @@ Life? Are you groaning after it? Are you reſolved to devote yourſelf wholly to
                <p>
                   <hi>N. B.</hi> Let none who are <hi>local,</hi> preach or exhort
 <pb n="15"
-                      facs="tcp:020522_0014_0FAF3A655E1631B8"
+                      facs="unknown:020522_0014_0FAF3A655E1631B8"
                       rendition="simple:additions"/>
 in any of our Societies without a Note of Permiſſion from the Deacon: Let every local Preacher or Ex<g ref="char:EOLhyphen"/>horter take Care to have this renewed yearly: And let every Elder inſiſt upon it.</p>
             </div>
@@ -360,7 +361,7 @@ in any of our Societies without a Note of Permiſſion from the Deacon: Let ever
                <p n="2">2. To defray the Expences of our Miſſions to diſtant Parts of the Continent.</p>
                <p>
                   <pb n="16"
-                      facs="tcp:020522_0015_0FAF3A661AA29A80"
+                      facs="unknown:020522_0015_0FAF3A661AA29A80"
                       rendition="simple:additions"/>
                   <hi>Queſt.</hi> 2. What is the regular annual Salary of the Biſhops, Elders, Deacons and Preachers?</p>
                <p>
@@ -388,7 +389,7 @@ in any of our Societies without a Note of Permiſſion from the Deacon: Let ever
                <p n="4">4. See that all the Leaders be not only Men of ſound Judgment, but Men truly devoted to God.</p>
                <p>
                   <pb n="17"
-                      facs="tcp:020522_0016_0FAF3A66DACC0410"
+                      facs="unknown:020522_0016_0FAF3A66DACC0410"
                       rendition="simple:additions"/>
                   <hi>Queſt.</hi> 3. How ſhall we prevent improper Perſons from inſinuating themſelves into the Society?</p>
                <p>
@@ -413,7 +414,7 @@ in any of our Societies without a Note of Permiſſion from the Deacon: Let ever
                <p>
                   <hi>Anſw.</hi> By walking cloſely with God, and having
 <pb n="18"
-                      facs="tcp:020522_0017_0FAF3A679C541728"
+                      facs="unknown:020522_0017_0FAF3A679C541728"
                       rendition="simple:additions"/>
 his Work greatly at Heart: And by underſtanding and loving Diſcipline, ours in particular.</p>
                <p>
@@ -431,7 +432,7 @@ his Work greatly at Heart: And by underſtanding and loving Diſcipline, ours in
                <p n="3">3. The Lord's Supper: Do you uſe this at every Opportunity? With ſolemn Prayer before? With earneſt and deliberate Self-Devotion?</p>
                <p n="4">
                   <pb n="19"
-                      facs="tcp:020522_0018_0FAF3A68603EBED8"
+                      facs="unknown:020522_0018_0FAF3A68603EBED8"
                       rendition="simple:additions"/>4. Do you uſe as much Abſtinence and Faſting every Week, as your Health, Strength and Labour will permit?</p>
                <p n="5">5. Chriſtian Conference: Are you convinced how important and how difficult it is to order your Con<g ref="char:EOLhyphen"/>verſation aright? Is it always in Grace? Seaſoned with salt? Meet to miniſter Grace to the Hearers? Do you not converſe too long at a Time? Is not an Hour commonly enough? Would it not be well always to have a determinate End in View? And to pray before and after it?</p>
                <p n="2">II. Prudential Means we may uſe, either as Chriſtians, as Methodiſts, as Preachers, or as Mi<g ref="char:EOLhyphen"/>niſters.</p>
@@ -443,7 +444,7 @@ his Work greatly at Heart: And by underſtanding and loving Diſcipline, ours in
                <p n="1">1. Do you ſteadily watch againſt the World? Yourſelf? Your beſetting Sin?</p>
                <p n="2">2. Do you deny yourſelf every uſeleſs Pleaſure of Senſe? Imagination? Honour? Are you temperate in all Things? Inſtance in Food. (1) Do you uſe only that Kind, and that Degree, which is beſt both for your Body and Soul? Do you ſee the Ne<g ref="char:EOLhyphen"/>ceſſity of this? (2) Do you eat no Fleſh Suppers?
 <pb n="20"
-                      facs="tcp:020522_0019_0FAF3A691DFF3300"
+                      facs="unknown:020522_0019_0FAF3A691DFF3300"
                       rendition="simple:additions"/>
 (3) Do you eat no more at each Meal than is neceſ<g ref="char:EOLhyphen"/>ſary? Are you not heavy or drowſy after Dinner? (4) Do you uſe only that Kind and that Degree of Drink which is beſt both for your Body and Soul? (5) Do you chuſe and uſe Water for your common Drink? And only take Wine and other Liquors medicinally?</p>
                <p n="3">3. Wherein do you take up your Croſs daily? Do you chearfully bear your Croſs (whatever is grievous to Nature) as a Gift of God, and labour to profit thereby?</p>
@@ -459,7 +460,7 @@ his Work greatly at Heart: And by underſtanding and loving Diſcipline, ours in
                   <hi>Anſw.</hi> 1. Let us be deeply convinced of the ab<g ref="char:EOLhyphen"/>ſolute Neceſſity of it.</p>
                <p n="2">2 Pray earneſtly for, and ſpeak freely to each other.</p>
                <p n="3">
-                  <pb n="21" facs="tcp:020522_0020_0FAF3A6A5B1A2BE0"/>3. When we meet, let us never part without Prayer.</p>
+                  <pb n="21" facs="unknown:020522_0020_0FAF3A6A5B1A2BE0"/>3. When we meet, let us never part without Prayer.</p>
                <p n="4">4. Take great Care not to deſpiſe each other's Gifts.</p>
                <p n="5">5. Never ſpeak lightly of each other.</p>
                <p n="6">6. Let us defend each other's Character in every Thing, ſo far as is conſiſtent with Truth.</p>
@@ -477,7 +478,7 @@ his Work greatly at Heart: And by underſtanding and loving Diſcipline, ours in
                <p>As long as theſe three Marks concur in any one, we believe he is called of God to preach. Theſe we receive as ſufficient Proof that he is moved by the Holy Ghoſt.</p>
             </div>
             <div n="13" type="section">
-               <pb n="22" facs="tcp:020522_0021_0FAF3A6A9CD6F328"/>
+               <pb n="22" facs="unknown:020522_0021_0FAF3A6A9CD6F328"/>
                <head>
                   <hi>SECTION XIII.</hi> Of the Spirit and Truth of Singing.</head>
                <p>
@@ -499,7 +500,7 @@ his Work greatly at Heart: And by underſtanding and loving Diſcipline, ours in
             </div>
             <div n="14" type="section">
                <pb n="23"
-                   facs="tcp:020522_0022_0FAF3A6B83D60A58"
+                   facs="unknown:020522_0022_0FAF3A6B83D60A58"
                    rendition="simple:additions"/>
                <head>
                   <hi>SECTION XIV.</hi> Rules by which we ſhould continue, or deſiſt from, Preaching at any Place.</head>
@@ -528,7 +529,7 @@ his Work greatly at Heart: And by underſtanding and loving Diſcipline, ours in
                   <hi>Queſt.</hi> 2. Are there any ſmaller Advices relative to Preaching, which might be of Uſe to us?</p>
                <p>
                   <pb n="24"
-                      facs="tcp:020522_0023_0FAF3A6C1ED10DA8"
+                      facs="unknown:020522_0023_0FAF3A6C1ED10DA8"
                       rendition="simple:additions"/>
                   <hi>Anſw.</hi> Perhaps theſe: 1. Be ſure never to diſ<g ref="char:EOLhyphen"/>appoint a Congregation. 2. Begin preciſely at the Time appointed. 3. Let your whole Deportment before the Congregation be ſerious, weighty and ſolemn. 4. Always ſuit your Subject to your Audi<g ref="char:EOLhyphen"/>ence. 5. Chuſe the plaineſt Texts you can. 6. Take Care not to ramble, but keep to your Text, and make out what you take in Hand. 7. Take Care of any Thing aukward or affected, either in your Geſture, Phraſe or Pronunciation. 8. Print nothing without the Approbation of the Conference, and one of the Biſhops. 9. Do not uſually pray <hi>ex tempore</hi> above eight or ten Minutes (at moſt) without Intermiſſion. 10. Frequently read and en<g ref="char:EOLhyphen"/>large upon a Portion of the Notes: And let young Preachers often exhort without taking a Text. 11. Always avail yourſelf of the great Feſtivals by preaching on the Occaſion. 12. Be courteous to all.</p>
                <p>
@@ -544,7 +545,7 @@ his Work greatly at Heart: And by underſtanding and loving Diſcipline, ours in
                <p>
                   <hi>Anſw.</hi> 1. Let all the Preachers carefully read over Mr. Weſley's and Mr. Fletcher's Tracts. 2. Let
 <pb n="25"
-                      facs="tcp:020522_0024_0FAF3A6CDCCD7578"
+                      facs="unknown:020522_0024_0FAF3A6CDCCD7578"
                       rendition="simple:additions"/>
 them frequently and explicitly preach the Truth, but not in a controverſial Way. And let them take Care to do it in Love and Gentleneſs: Not in Bit<g ref="char:EOLhyphen"/>terneſs, returning Railing for Railing. 3. Anſwer all the Objections of our People as Occaſion offers. But take Care to do this with all poſſible Sweetneſs both of Look and Accent.</p>
                <p>
@@ -560,7 +561,7 @@ them frequently and explicitly preach the Truth, but not in a controverſial Way
                <p>He that according to the Light he has, ſcareth God, and worketh Righteouſneſs.</p>
                <p n="3">3. Is this the ſame with, He that is ſincere?</p>
                <p>
-                  <pb n="26" facs="tcp:020522_0025_0FAF3A6E1C27B3E0"/>Nearly, if not quite.</p>
+                  <pb n="26" facs="unknown:020522_0025_0FAF3A6E1C27B3E0"/>Nearly, if not quite.</p>
                <p n="4">4. Is not this Salvation by Works?</p>
                <p>Not by the Merit of Works, but by Works as a Condition.</p>
                <p n="5">5. The grand Objection to one of the preceed<g ref="char:EOLhyphen"/>ing Propoſitions, is drawn from Matter of Fact. God does in Fact juſtify thoſe who by their own Confeſſion neither feared God, nor wrought Righte<g ref="char:EOLhyphen"/>ouſneſs. Is this an Exception to the general Rule?</p>
@@ -577,7 +578,7 @@ them frequently and explicitly preach the Truth, but not in a controverſial Way
                   <hi>Anſw.</hi> 1. Let all the Appointments ſtand accord<g ref="char:EOLhyphen"/>ing to the Plan of the Circuit.</p>
                <p n="2">
                   <pb n="27"
-                      facs="tcp:020522_0026_0FAF3A6E6094BE78"
+                      facs="unknown:020522_0026_0FAF3A6E6094BE78"
                       rendition="simple:additions"/>2. Engage as many Local Preachers and Exhort<g ref="char:EOLhyphen"/>ers as will ſupply them; and let them be paid for their Time in Proportion to the Salary of the Tra<g ref="char:EOLhyphen"/>velling-Preachers.</p>
                <p n="3">3. If Preachers and Exhorters cannot attend, let ſome Perſon of Ability be appointed in every Society, to ſing, pray, and read one of Mr. Weſ<g ref="char:EOLhyphen"/>ley's Sermons.</p>
                <p n="4">4. And if that cannot be done, let there be Prayer-Meetings.</p>
@@ -592,7 +593,7 @@ them frequently and explicitly preach the Truth, but not in a controverſial Way
                <p>
                   <hi>Anſw.</hi> We adviſe you, 1. As often as poſſible to riſe at four. 2. From four to five in the Morn<g ref="char:EOLhyphen"/>ing, and from five to ſix in the Evening, to medi<g ref="char:EOLhyphen"/>tate, pray and read, partly the Scriptures with Mr. Weſley's Notes, partly the cloſely practical Parts of what he has publiſhed. 3. From ſix in the Morning till twelve (allowing an Hour for Breakfaſt) read in Order, with much Prayer, the Chriſtian Library, and other pious Books.</p>
                <p>
-                  <pb n="28" facs="tcp:020522_0027_0FAF3A6F1C0A6FB0"/>
+                  <pb n="28" facs="unknown:020522_0027_0FAF3A6F1C0A6FB0"/>
                   <hi>Queſt.</hi> 2. Why is it that the People under our Care are not better?</p>
                <p>
                   <hi>Anſw.</hi> Other Reaſons may concur; but the chief is, becauſe we are not more knowing and more holy.</p>
@@ -610,7 +611,7 @@ them frequently and explicitly preach the Truth, but not in a controverſial Way
             </div>
             <div n="20" type="section">
                <pb n="29"
-                   facs="tcp:020522_0028_0FAF3A6FDDA439F0"
+                   facs="unknown:020522_0028_0FAF3A6FDDA439F0"
                    rendition="simple:additions"/>
                <head>
                   <hi>SECTION XX.</hi> On the Lord's Supper.</head>
@@ -635,7 +636,7 @@ them frequently and explicitly preach the Truth, but not in a controverſial Way
                <p n="3">3. When any ſuch is expelled, let a ſuitable Ex<g ref="char:EOLhyphen"/>hortation be ſubjoined.</p>
                <p n="4">4. Let all be exhorted to take no Step in ſo weighty a Maſter, without adviſing with the moſt ſerious of their Brethren.</p>
                <p>
-                  <pb n="30" facs="tcp:020522_0029_0FAF3A709E9B53C0"/>
+                  <pb n="30" facs="unknown:020522_0029_0FAF3A709E9B53C0"/>
                   <hi>Queſt.</hi> 3. Ought any Woman to marry without the Conſent of her Parents?</p>
                <p>
                   <hi>Anſw.</hi> In general, ſhe ought not. Yet there may be Exceptions. For if, 1. A Woman be under the Neceſſity of marrying: If, 2. Her Pa<g ref="char:EOLhyphen"/>rents abſolutely refuſe to let her marry any Chriſtian: Then ſhe may, nay, ought to marry without their Conſent. Yet even then a Methodiſt-Preacher ought not to marry her.</p>
@@ -645,7 +646,7 @@ them frequently and explicitly preach the Truth, but not in a controverſial Way
                   <hi>SECTION XXII.</hi> On Perfection.</head>
                <p>LET us ſtrongly and explicitly exhort all Be<g ref="char:EOLhyphen"/>lievers to go on to Perfection. That we may all ſpeak the ſame Thing, we aſk once for all, Shall we defend this Perfection, or give it up? We all agree to defend it, meaning thereby (as we did from the Beginning) Salvation from all Sin, by the Love of God and Man filling our Heart. The Papiſts ſay, "This cannot be attained till we have been refined by the Fire of Purgatory." Some Profeſſors ſay, "Nay, it will be attained as ſoon as the Soul and Body part." Others ſay, "It may be attained before we die: A Moment after is too late." Is it ſo, or not? We are all agreed, we may be ſaved from all Sin before Death. The Subſtance then is ſettled. But as to the Circumſtances, is the Change gradual or inſtantaneous! It is both the one and the other. "But ſhould we in Preaching inſiſt both on one and the other?" Certainly we ſhould inſiſt on the gradual Change; and that ear<g ref="char:EOLhyphen"/>neſtly and continually. And are there not Reaſons why we ſhould inſiſt on the inſtantaneous alſo? If there be ſuch a bleſſed Change before Death, ſhould
 <pb n="31"
-                      facs="tcp:020522_0030_0FAF3A71D859AC50"
+                      facs="unknown:020522_0030_0FAF3A71D859AC50"
                       rendition="simple:additions"/>
 we not encourage all Believers to expect it? And the rather, becauſe conſtant Experience ſhews, the more earneſtly they expect this, the more ſwiftly and ſteadily does the gradual Work of God go on in their Souls; the more careful are they to grow in Grace; the more zealous of good Works, and the more punctual in their Attendance on all the Ordinances of God; (whereas juſt the contrary Effects are obſerved, whenever this Expectation ceaſes.) They are ſaved by Hope, by this Hope of a total Change, with a gradually increaſing Sal<g ref="char:EOLhyphen"/>vation. Deſtroy this Hope, and that Salvation ſtands ſtill, or rather decreaſes daily. Therefore whoever would advance the gradual Change in Be<g ref="char:EOLhyphen"/>lievers, ſhould ſtrongly inſiſt on the inſtantaneous.</p>
             </div>
@@ -659,7 +660,7 @@ we not encourage all Believers to expect it? And the rather, becauſe conſtant 
             </div>
             <div n="24" type="section">
                <pb n="32"
-                   facs="tcp:020522_0031_0FAF3A721C1AF240"
+                   facs="unknown:020522_0031_0FAF3A721C1AF240"
                    rendition="simple:additions"/>
                <head>
                   <hi>SECTION XXIV.</hi> On the Privileges granted to ſerious Per<g ref="char:EOLhyphen"/>ſons that are not of the Society.</head>
@@ -680,7 +681,7 @@ we not encourage all Believers to expect it? And the rather, becauſe conſtant 
                <p>
                   <hi>Anſw.</hi> 1. By inſtructing them at their own Houſes. What unſpeakable Need is there of this? The World ſays, "The Methodiſts are no better than other People." This is not true. But it is nearer the Truth than we are willing to believe. For 1. Perſonal Religion either toward God, or Man, is
 <pb n="33"
-                      facs="tcp:020522_0032_0FAF3A72DB526A50"
+                      facs="unknown:020522_0032_0FAF3A72DB526A50"
                       rendition="simple:additions"/>
 very ſuperficial among us. We can but juſt touch on a few Generals. How little Faith is there among us? How little Communion with God? How little living in Heaven, walking in Eternity, Deadneſs to every Creature? How much Love of the World? Deſire of Pleaſure, of Eaſe, of getting Money? How little brotherly Love? What continual Judg<g ref="char:EOLhyphen"/>ing one another? What Goſſipping, Evil-ſpeaking. Tale-bearing? What Want of moral Honeſty? To inſtance only one Particular; Who does as he would be done by, in buying and ſelling?</p>
                <p n="2">2. Family-Religion is wanting in many Branches. And what avails Public Preaching alone, though we could preach like Angels? We muſt, yea, every Travelling-Preacher muſt inſtruct them from Houſe to Houſe. Till this is done, and that in good Ear<g ref="char:EOLhyphen"/>neſt, the Methodiſts will be little better than other People.</p>
@@ -689,7 +690,7 @@ very ſuperficial among us. We can but juſt touch on a few Generals. How little
                <p n="1">1. In ourſelves, there is much Dulneſs and Lazi<g ref="char:EOLhyphen"/>neſs, ſo that there will be much ado to get us to be faithful in the Work.</p>
                <p n="2">2. We have a baſe, man-pleaſing Temper, ſo that we let Men periſh, rather than loſe their Love; we let them go quietly to Hell, leſt we ſhould offend them.</p>
                <p>
-                  <pb n="34" facs="tcp:020522_0033_0FAF3A739B336CB8"/>Some of us have alſo a fooliſh Baſhfulneſs. We know not how to begin, and bluſh to contradict the Devil.</p>
+                  <pb n="34" facs="unknown:020522_0033_0FAF3A739B336CB8"/>Some of us have alſo a fooliſh Baſhfulneſs. We know not how to begin, and bluſh to contradict the Devil.</p>
                <p n="4">4. But the greateſt Hindrance is Weakneſs of Faith. Our whole Motion is weak, becauſe the Spring of it is weak.</p>
                <p n="5">5. Laſtly, we are unſkilful in the Work. How few know how to deal with Men, ſo as to get within them, and ſuit all our Diſcourſe to their ſe<g ref="char:EOLhyphen"/>veral Conditions and Tempers: To chuſe the fitteſt Subjects, and follow them with a holy Mixture of Seriouſneſs and Terror, and Love, and Meekneſs?</p>
                <p>But undoubtedly this private Application is im<g ref="char:EOLhyphen"/>plied in thoſe ſolemn Words of the Apoſtle, <hi>I charge thee before God and the Lord Jeſus Chriſt, who ſhall judge the Quick and Dead at his appearing, preach the Word, be inſtant in Seaſon, out of Seaſon: Re<g ref="char:EOLhyphen"/>prove, rebuke, exhort, with all Long-ſuffering.</hi>
@@ -697,7 +698,7 @@ very ſuperficial among us. We can but juſt touch on a few Generals. How little
                <p>O Brethren, if we could but ſet this Work on foot in all our Societies, and proſecute it zealouſly, what Glory would redound to God. If the common Lukewarmneſs were baniſhed, and every Shop, and every Houſe buſied in ſpeaking of the Words and Works of God; ſurely God would dwell in our Habitations, and make us His Delight.</p>
                <p>And this is abſolutely neceſſary to the Welfare of our People, ſome of whom neither believe nor re<g ref="char:EOLhyphen"/>pent to this Day. Look round and ſee how many of them are ſtill in apparent Danger of Damnation. And how can you walk, and talk, and be merry with ſuch People, when you know their Caſe? Methinks when you look them in the Face, you ſhould break forth into Tears, as the Prophet did when he looked upon Hazael, and then ſet on them with the moſt vehement Exhortations. O, for God's Sake, and the Sake of poor Souls, beſtir
 <pb n="35"
-                      facs="tcp:020522_0034_0FAF3A745AF35290"
+                      facs="unknown:020522_0034_0FAF3A745AF35290"
                       rendition="simple:additions"/>
 yourſelves, and ſpare no Pains that may conduce to their Salvation!</p>
                <p>What Cauſe have we to bleed before the Lord this Day, that we have ſo long neglected this good Work! If we had but engaged in it ſooner, how many more might have been brought to Chriſt? And how much holier and happier might we have made our Societies before now? And why might we not have done it ſooner? There are many Hin<g ref="char:EOLhyphen"/>drances: And ſo there always will be. But the greateſt Hindrance was in ourſelves, in our Little<g ref="char:EOLhyphen"/>neſs of Faith and Love.</p>
@@ -706,7 +707,7 @@ yourſelves, and ſpare no Pains that may conduce to their Salvation!</p>
                      <desc>••••</desc>
                   </gap>taining Knowledge is a good Thing, but ſaving Souls is a better. 2. By this very Thing you will gain the moſt excellent Know<g ref="char:EOLhyphen"/>ledge, that of God and Eternity. 3. You will have Time for gaining other Knowledge too. Only ſleep not more than you need; and never be idle or triflingly employed. But, 4. If you can do but one, let your Studies alone. I would throw by all the Libraries in the World rather than be guilty of the Loſs of one Soul.</p>
                <p>It is objected, II. "The People will not ſub<g ref="char:EOLhyphen"/>mit to it." If ſome will not, others will. And the Succeſs with them, will repay all your Labour. O let us herein follow the Example of St. Paul. 1. For our general Buſineſs, <hi>Serving the Lord with all Humility of Mind:</hi> 2. Our ſpecial Work, <hi>Take Heed to yourſelves and to all the Flock:</hi> 3. Our Doc<g ref="char:EOLhyphen"/>trine, <hi>Repentance towards God, and Faith in our Lord Jeſus Chriſt:</hi> 4. The Place, <hi>I have taught you publickly, and from Houſe to Houſe:</hi> 5. The Object and Manner of Teaching, <hi>I ceaſed not to warn every
-<pb n="36" facs="tcp:020522_0035_0FAF3A751D958C20"/>
+<pb n="36" facs="unknown:020522_0035_0FAF3A751D958C20"/>
 one, Night and Day, with Tears:</hi> 6. His Innocence and Self-Denial herein, <hi>I have covetted no Man's Silver or Gold:</hi> 7. His Patience, <hi>Neither count I my Life dear unto myſelf.</hi> And among all other Mo<g ref="char:EOLhyphen"/>tives, let theſe be ever before our Eyes: 1. <hi>The Church of God, which he hath purchaſed with his own Blood.</hi> 2. <hi>Grievous Wolves ſhall enter in; yea, of yourſelves ſhall Men ariſe, ſpeaking perverſe Things.</hi>
                </p>
                <p>Write this upon your Hearts, and it will do you more good than twenty Year's Study. Then you will have no Time to ſpare: You will have Work enough. Then likewiſe no Preacher will ſtay with us who is as Salt that has loſt its Savour. For to ſuch this Employment would be <gap reason="illegible" resp="#UOM" extent="1 word">
@@ -720,7 +721,7 @@ one, Night and Day, with Tears:</hi> 6. His Innocence and Self-Denial herein, <h
                <p>
                   <hi>Anſw.</hi> Chiefly becauſe we are Enthuſiaiſts; look<g ref="char:EOLhyphen"/>ing for the End without uſing the Means. To
 <pb n="37"
-                      facs="tcp:020522_0036_0FAF3A75DAF64C48"
+                      facs="unknown:020522_0036_0FAF3A75DAF64C48"
                       rendition="simple:additions"/>
 touch only upon two or three Inſtances: Who of you riſes at four? Or even at five, when he does not preach? Do you know the Obligation and Be<g ref="char:EOLhyphen"/>nefit of Faſting or Abſtinence? How often do you practiſe it? The Neglect of this alone is ſufficient to account for our Feebleneſs and Faintneſs of Spi<g ref="char:EOLhyphen"/>rit. We are continually grieving the Holy Spirit of God by the habitual Neglect of a plain Duty. Let us amend from this Hour.</p>
                <p>
@@ -737,7 +738,7 @@ touch only upon two or three Inſtances: Who of you riſes at four? Or even at f
                   <hi>Anſw.</hi> Let the Elder or Deacon deſire two or three judicious Members of the Society to inſpect the Accounts of the ſuppoſed Delinquents; and if they have behaved Diſhoneſtly, or borrowed Money without a Probability of paying, let them be ſuſ<g ref="char:EOLhyphen"/>pended till their Credit is reſtored.</p>
             </div>
             <div n="26" type="section">
-               <pb n="38" facs="tcp:020522_0037_0FAF3A771C4F6BD8"/>
+               <pb n="38" facs="unknown:020522_0037_0FAF3A771C4F6BD8"/>
                <head>
                   <hi>SECTION XXVI.</hi> On the Inſtruction of Children.</head>
                <p>
@@ -757,7 +758,7 @@ touch only upon two or three Inſtances: Who of you riſes at four? Or even at f
             </div>
             <div n="27" type="section">
                <pb n="39"
-                   facs="tcp:020522_0038_0FAF3A775EFB8C90"
+                   facs="unknown:020522_0038_0FAF3A775EFB8C90"
                    rendition="simple:additions"/>
                <head>
                   <hi>SECTION XXVII.</hi> On Building Churches, and on the Order to he obſerved therein.</head>
@@ -775,7 +776,7 @@ touch only upon two or three Inſtances: Who of you riſes at four? Or even at f
                   <hi>Queſt.</hi> 3. But is there not a worſe Indecency than this, Talking in the Congregation, before and after Service? How ſhall this be cured?</p>
                <p>
                   <hi>Anſw.</hi> Let all the Miniſters and Preachers join as one Man, and enlarge on the Impropriety of Talking before or after Service; and ſtrongly ex<g ref="char:EOLhyphen"/>hort thoſe that are concerned to do it no more. In
-<pb n="40" facs="tcp:020522_0039_0FAF3A781D067F08"/>
+<pb n="40" facs="unknown:020522_0039_0FAF3A781D067F08"/>
 three Months, if we are in Earneſt, this vile Practice will be baniſhed out of every Methodiſt-Congregation. Let none ſtop till he has carried his Point.</p>
             </div>
             <div n="28" type="section">
@@ -787,7 +788,7 @@ three Months, if we are in Earneſt, this vile Practice will be baniſhed out of
                   <hi>Anſw.</hi> By a yearly Collection, and, if need be, a quarterly one, to be raiſed by every Aſſiſtant in every principal Congregation in his Circuit. To this End, he may then read and enlarge upon the following Hints in every ſuch Congregation.</p>
                <p>"How ſhall we ſend Labourers into thoſe Parts where they are moſt of all wanted? Many are wil<g ref="char:EOLhyphen"/>ling to hear, but not to bear the Expence. Nor can it as yet be expected of them: Stay till the Word of God has touched their Hearts, and then they will gladly provide for them that preach it. Does it not lie upon us in the mean Time to ſupply their Lack of Service? To raiſe a general Fund, out of which from Time to Time that Expence may be defrayed? By this Means thoſe who willingly offer themſelves, may travel through every Part, whether there are Societies or not, and ſtay wherever there is a Call, without being burdenſome to any. Thus may the
 <pb n="41"
-                      facs="tcp:020522_0040_0FAF3A78DFF86708"
+                      facs="unknown:020522_0040_0FAF3A78DFF86708"
                       rendition="simple:additions"/>
 Goſpel, in the Life and Power thereof, be ſpread from Sea to Sea. Which of you will not rejoice to throw in your Mite to promote this glorious Work?</p>
                <p>"Beſides this, in carrying on ſo large a Work through the Continent, there are Calls for Money in various Ways, and we muſt frequently be at conſider<g ref="char:EOLhyphen"/>able Expence, or the Work muſt be at a full Stop. Many too are the occaſional Diſtreſſes of our Preach<g ref="char:EOLhyphen"/>ers, or their Families, which require an immediate Supply. Otherwiſe their Hands would hang down, if they were not conſtrained to depart from the Work.</p>
@@ -795,7 +796,7 @@ Goſpel, in the Life and Power thereof, be ſpread from Sea to Sea. Which of you
                <p>"Men and Brethren, help! Was there ever a Call like this ſince you firſt heard the Goſpel-Sound? Help to relieve your Companions in the Kingdom of Jeſus, who are preſt above Meaſure. Bear ye one another's Burdens, and ſo fulfil the Law of Chriſt. Help to ſend forth able, willing Labourers into your Lord's Harveſt: So ſhall ye be aſſiſtant in ſaving Souls from Death, and hiding a Multitude of Sins. Help to propagate the Goſpel of your Salvation to the remoteſt Corners of the Earth, till the Knowledge of our Lord ſhall cover the Land as the Waters cover the Sea. So ſhall it appear to ourſelves and all Men, that we are indeed one Body united by one Spirit; ſo ſhall the baptized Heathens be yet again conſtrained to ſay, "See how theſe Chriſtians love one another."</p>
             </div>
             <div n="29" type="section">
-               <pb n="42" facs="tcp:020522_0041_0FAF3A799BE50D60"/>
+               <pb n="42" facs="unknown:020522_0041_0FAF3A799BE50D60"/>
                <head>
                   <hi>SECTION XXIX.</hi> Of the Method of raiſing a Fund for the Superannuated Preachers, and the Widows and Orphans of Preachers.</head>
                <p>
@@ -811,7 +812,7 @@ Goſpel, in the Life and Power thereof, be ſpread from Sea to Sea. Which of you
                <p n="8">8. Every Widow of a Preacher ſhall receive yearly, if ſhe wants it, during her Widowhood, twenty Pounds.</p>
                <p n="9">
                   <pb n="43"
-                      facs="tcp:020522_0042_0FAF3A7A5FD24168"
+                      facs="unknown:020522_0042_0FAF3A7A5FD24168"
                       rendition="simple:additions"/>9. Every Child of a Preacher ſhall receive once for all, if he wants it, twenty Pounds.</p>
                <p n="10">10. But none ſhall be intitled to any Thing from this Fund, till he has paid Fifty Shillings.</p>
                <p n="11">11. Nor any who neglects paying his Subſcrip<g ref="char:EOLhyphen"/>tion for three Years together, unleſs he be ſent by the Conference out of theſe United States.</p>
@@ -824,7 +825,7 @@ Goſpel, in the Life and Power thereof, be ſpread from Sea to Sea. Which of you
                <p>AS a College has been erected with the Appro<g ref="char:EOLhyphen"/>bation of the Conference, for the Benefit of the Connection; and as the whole Direction of the Seminary ultimately reſts with the Conference; we are determined to ſupport it under ſuch Regula<g ref="char:EOLhyphen"/>tions as the Conference from Time to Time ſhall order, concerning its literary, temporal and ſpiritual Intereſts: And therefore the Counſels, the Autho<g ref="char:EOLhyphen"/>rity and the Aid of the Conference are earneſtly requeſted for the Support of the Inſtitution; that the neceſſary Collections may be raiſed, the Deſign of the Seminary be fully explained and ſtrongly re<g ref="char:EOLhyphen"/>commended to the People, and all the Objections which any of our miſtaken Friends may entertain, be fully anſwered.</p>
             </div>
             <div n="31" type="section">
-               <pb n="44" facs="tcp:020522_0043_0FAF3A7B1A9D7A00"/>
+               <pb n="44" facs="unknown:020522_0043_0FAF3A7B1A9D7A00"/>
                <head>
                   <hi>SECTION XXXI.</hi> On the Printing of Books, and the Appli<g ref="char:EOLhyphen"/>cation of the Profits ariſing therefrom.</head>
                <p>AS it has been frequently recommended by the Preachers and People, that ſuch Books as are wanted, be printed in this Country, we therefore propoſe,</p>
@@ -835,7 +836,7 @@ Goſpel, in the Life and Power thereof, be ſpread from Sea to Sea. Which of you
       </body>
       <back>
          <div type="index">
-            <pb facs="tcp:020522_0044_0FAF3A7C34058910"/>
+            <pb facs="unknown:020522_0044_0FAF3A7C34058910"/>
             <head>INDEX.</head>
             <list>
                <label>SECTION I.</label>
@@ -878,7 +879,7 @@ Goſpel, in the Life and Power thereof, be ſpread from Sea to Sea. Which of you
                   </hi>
                </item>
                <label>
-                  <pb facs="tcp:020522_0045_0FAF3A7D7971F2A8"/>
+                  <pb facs="unknown:020522_0045_0FAF3A7D7971F2A8"/>
                   <hi>SECTION XIII.</hi>
                </label>
                <item>Of the Spirit and Truth of Singing. <hi>p. 22</hi>
@@ -922,7 +923,7 @@ Goſpel, in the Life and Power thereof, be ſpread from Sea to Sea. Which of you
                <item>On viſiting from Houſe to Houſe; guarding againſt thoſe Sins that are ſo common to Profeſſors, and inforcing Practical Religion. <hi>ibid</hi>
                </item>
                <label>
-                  <pb facs="tcp:020522_0046_0FAF3A7E1C7AF848"/>
+                  <pb facs="unknown:020522_0046_0FAF3A7E1C7AF848"/>
                   <hi>SECTION XXVI.</hi>
                </label>
                <item>On the Inſtruction of Children. <hi>p. 38</hi>
